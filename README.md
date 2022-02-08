@@ -1,10 +1,10 @@
 NOCS 2022
 =========
 
-16th IEEE/ACM International Symposium on Networks-on-Chip
-October 7 - 14, 2022, Hybrid Conference (Shanghai, China)
-(Co-located with Embedded Systems Week 2022)
-https://nocs2022.github.io/
+16th IEEE/ACM International Symposium on Networks-on-Chip  
+October 7 - 14, 2022, Hybrid Conference (Shanghai, China)  
+(Co-located with Embedded Systems Week 2022)  
+https://nocs2022.github.io/  
 
 ## CALL FOR PAPERS
 
@@ -60,8 +60,8 @@ The International Symposium on Networks-on-Chip (NOCS) is the premier event dedi
 
 --------------------------------------------------------------------------------
 
-**New**
-Journal-Integrated Publication Model:</strong> All accepted papers will be published in an IEEE Design & Test issue.
+**(New)**
+Journal-Integrated Publication Model: All accepted papers will be published in an IEEE Design & Test issue.
 
 --------------------------------------------------------------------------------
 
