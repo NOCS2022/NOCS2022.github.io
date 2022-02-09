@@ -79,7 +79,7 @@ Sergi Abadal (Universitat Politècnica de Catalunya)
 Joshua San Miguel (University of Wisconsin-Madison)  
 
 ### Technical Program Chairs
-Miquel Moreto (Universitat Politècnica de Catalunya)  
+Miquel Moreto (Barcelona Supercomputing Center)  
 Mahdi Nikdast (Colorado State University)  
 
 ### Publicity Chairs
