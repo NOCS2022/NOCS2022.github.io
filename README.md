@@ -19,7 +19,7 @@ The International Symposium on Networks-on-Chip (NOCS) is the premier event dedi
 - Network interface issues and solutions
 - Signaling and circuit design for NoC links and routers
 
-### Communication Analysis, Optimization, & Verification
+### Communication Analysis, Optimization, and Verification
 - NoC performance analysis and Quality of Service
 - Modeling, simulation, and synthesis of NoC
 - Verification, debug and test of NoC
@@ -28,7 +28,7 @@ The International Symposium on Networks-on-Chip (NOCS) is the premier event dedi
 - Communication-efficient algorithms
 - Communication workload characterization & evaluation
 
-### Novel NoC Technologies
+### Emerging and Novel NoC Technologies
 - Optical, wireless, CNT, and other emerging technologies
 - NoC for 2.5D and 3D packages
 - Package-specific NoC design
@@ -37,7 +37,7 @@ The International Symposium on Networks-on-Chip (NOCS) is the premier event dedi
 
 ### NoC for High-Performance Computing (HPC) Systems
 - NoC design for Deep Learning
-- Mapping of existing and emerging applications onto NoC
+- Mapping of emerging applications and systems onto NoC
 - NoC case studies, application-specific NoC design
 - NoC for FPGA, structured ASIC, CMP and MPSoC
 - NoC designs for heterogeneous systems
@@ -60,8 +60,8 @@ The International Symposium on Networks-on-Chip (NOCS) is the premier event dedi
 
 --------------------------------------------------------------------------------
 
-**(New)**
-Journal-Integrated Publication Model: All accepted papers will be published in an IEEE Design & Test issue.
+**New in NOCS 2022 => **
+Journal-Integrated Publication Model: All accepted papers will be published in an IEEE Design & Test special issue.
 
 --------------------------------------------------------------------------------
 

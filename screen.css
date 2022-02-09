@@ -86,3 +86,7 @@ h1 {
 .best-paper{
     color: darkred !important;
 }
+
+.important-text{
+    color: red !important;
+}
