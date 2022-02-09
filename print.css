@@ -107,3 +107,7 @@ a:link:after {
 .row {
     display: block;
 }
+
+.past-event-img{
+    width: 100px;
+}
