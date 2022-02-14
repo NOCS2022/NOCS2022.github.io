@@ -60,8 +60,10 @@ The International Symposium on Networks-on-Chip (NOCS) is the premier event dedi
 
 --------------------------------------------------------------------------------
 
-**New in NOCS 2022 => **
+**New in NOCS 2022 =>**
 Journal-Integrated Publication Model: All accepted papers will be published in an IEEE Design & Test special issue.
+
+Please find the detailed submission instructions for paper submission, special session, and demo proposals at the submission webpage.
 
 --------------------------------------------------------------------------------
 
