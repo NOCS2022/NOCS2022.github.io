@@ -87,6 +87,7 @@ Mahdi Nikdast (Colorado State University)
 ### Publicity Chairs
 Jieming Yin (Lehigh University)  
 Poona Bahrebar (Ghent University)  
+Trevor Carlson (National University of Singapore)  
 
 ### Web Chair
 Salvatore Monteleone (Niccolò Cusano University)  
