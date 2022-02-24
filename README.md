@@ -84,6 +84,9 @@ Joshua San Miguel (University of Wisconsin-Madison)
 Miquel Moreto (Barcelona Supercomputing Center)  
 Mahdi Nikdast (Colorado State University)  
 
+### Special Sessions Chair
+Masoumeh (Azin) Ebrahimi (KTH Royal Institute of Technology)  
+
 ### Publicity Chairs
 Jieming Yin (Lehigh University)  
 Poona Bahrebar (Ghent University)  
