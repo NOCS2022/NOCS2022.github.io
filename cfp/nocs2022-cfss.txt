@@ -1,0 +1,45 @@
+NOCS 2022
+=========
+
+16th IEEE/ACM International Symposium on Networks-on-Chip  
+October 7 - 14, 2022, Hybrid Conference (Shanghai, China)  
+(Co-located with Embedded Systems Week 2022)  
+https://nocs2022.github.io/  
+
+## CALL FOR SPECIAL SESSIONS
+
+NOCS'22 welcomes special session proposals targeting emerging and hot topics in the area of networks-on-chip. Proposals must be sent via e-mail (either pdf or ascii text) to Assoc. Prof. Masoumeh (Azin) Ebrahimi (mebr@kth.se). All proposals will be evaluated in terms of their novelty, quality, and technical/scientific contribution. Sessions strengthening and/or extending the conference program in new and emerging directions will be prioritized.
+
+### Important Dates
+Special Session proposals due: **May 13, 2022**  
+Acceptance notification: **May 27, 2022**  
+
+## Aim and Guidelines
+The aim of the special sessions is to complement the regular technical sessions and provide novel perspectives to the regular sessions. Special session can take the form of:
+
+1. **Panels:** discussing visionary and/or controversial issues 
+2. **Hot-Topic Sessions:** dealing with the introduction and discussion of new R&D problems 
+3. **Tutorial Sessions:** addressing trends in the technical domains that are of interest to the conference participants 
+
+Topics that introduce new directions and paradigms relevant to the NOCS community are highly encouraged. Special Session proposals should consist of an extended summary of up to 1500 words as a PDF file, describing the session content and format.
+
+Proposals should include:
+
+- **Title of the special session**
+- **Rationale of the need for the special session at NOCS:** The rationale should stress the novelty of the topic and/or its multidisciplinary flavor, and must explain how it is different from the subjects covered by the regular sessions
+- **Short biography of the organizers**
+- For **Hot-Topic Sessions:** List three (3) contributed presentations (including finalized titles, an abstract of each contribution, contact information of the corresponding presenters, and their short biography)
+- For **Panels** or **Tutorial Session** proposals: List three to five panelists/speakers, their short biography, and their area of expertise
+
+NOCS 2022 introduces a journal-integrated publication model (https://nocs2022.github.io/submission.html). In case of acceptance, the contributors in the Tutorial and Hot-topic Sessions are entitled to publish a manuscript in an IEEE Design & Test special issue as below:  
+
+- **Tutorial Sessions:** All tutorial presenters can collaborate in publishing a **single** paper altogether for the respective tutorial session
+- **Hot-Topic Sessions:** All speakers in a hot-topic session can collaborate in publishing a **single** paper altogether
+
+Paper submission deadline: **July 8, 2022**  
+Feedback and review: **July 29, 2022**  
+Final paper submission: **August 19, 2022**  
+
+Papers should be formatted according to the format guidelines described in the NOCS website (https://nocs2022.github.io/submission.html).
+
+For the accepted special sessions, the special session organizer(s) should ensure that the manuscript submission deadlines are met and the manuscript from their respective special sessions are technically sound and meet the standards of NOCS. The special session chair may decline the publication of the manuscript in the special issue if the above criteria are not fulfilled.
