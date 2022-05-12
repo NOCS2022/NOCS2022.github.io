@@ -68,8 +68,8 @@ Please find the detailed submission instructions for paper submission, special s
 --------------------------------------------------------------------------------
 
 ## Important Dates (Anywhere on Earth)
-Abstract registration: April 29, 2022  
-Full-paper submission: May 6, 2022  
+Abstract registration: May 13, 2022 (EXTENDED)  
+Full-paper submission: May 20, 2022 (EXTENDED)  
 First notification and reviews: July 8, 2022  
 Submission of revised papers: July 29, 2022  
 Final notification of acceptance: August 19, 2022  
