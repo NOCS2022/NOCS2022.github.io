@@ -1,9 +1,9 @@
 NOCS 2022
 =========
 
-16th IEEE/ACM International Symposium on Networks-on-Chip
-October 7 - 14, 2022, Hybrid Conference (Shanghai, China)
-(Co-located with Embedded Systems Week 2022)
+16th IEEE/ACM International Symposium on Networks-on-Chip  
+October 13-14, 2022, Virtual Conference  
+(Held in conjunction with Embedded Systems Week 2022)  
 https://nocs2022.github.io/
 
 ## CALL FOR SPECIAL SESSIONS
